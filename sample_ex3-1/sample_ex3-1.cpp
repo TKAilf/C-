@@ -13,7 +13,9 @@ int main(){
     cout << add< int >( 4, 3 ) << endl;
     cout << add< string >( "ABC", "DEF" ) << endl;
     cout << add( 1, 2 ) << endl;
+    // stringŒ^‚©charŒ^‚©•ª‚©‚ç‚¸ƒGƒ‰[‚É‚È‚é
     // cout << add( "abc", "def" ) << endl;
+    // typename‚Í“¯‚¶Œ^‚Å‚È‚¯‚ê‚ÎƒGƒ‰[‚É‚È‚éB
     // cout << add( 1, 2.3 ) << endl;
     return 0;
 }
