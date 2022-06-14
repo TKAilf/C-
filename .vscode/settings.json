@@ -5,6 +5,9 @@
         "ostream": "cpp",
         "vector": "cpp",
         "tuple": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "xutility": "cpp"
     }
 }
