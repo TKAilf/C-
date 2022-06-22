@@ -8,6 +8,7 @@
         "utility": "cpp",
         "initializer_list": "cpp",
         "list": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "map": "cpp"
     }
 }
